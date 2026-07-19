@@ -28,3 +28,12 @@ Provisioned AWS infrastructure using Terraform, including an EC2 instance and Se
 
 🔗 Repository:
 https://github.com/sufiyaan14/terraform-aws-ec2
+
+---
+
+## 4️⃣ Monitoring with Prometheus & Grafana
+
+Built a monitoring stack using Docker Compose, Prometheus, Node Exporter, and Grafana to collect, monitor, and visualize Linux system metrics through interactive dashboards.
+
+🔗 Repository:  
+https://github.com/sufiyaan14/monitoring-prometheus-grafana
